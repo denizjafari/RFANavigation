@@ -1,0 +1,1 @@
+C:\Users\robert\PlusApp-2.7.0.20180911-Win64\bin\PlusServer.exe --verbose=4 --config-file=C:\Users\Deniz\Code\rfnavigation\OptiTrack\PlusDeviceSet_Server_OarmCal.xml
